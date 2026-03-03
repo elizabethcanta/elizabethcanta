@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science student at McMaster University<br>💻 Interested in software development, programming, and web development<br>🌱 Currently learning: C, Python, and JavaScript<br>🚀 Working on building projects for my portfolio<br><br>🎯 Goal: Land my first software internship<br>
+🎓 Computer Science student at McMaster University<br>💻 Interested in software development, programming, and web development<br>🌱 Currently learning: C, Python, and JavaScript<br>🚀 Working on building projects for my portfolio<br>🎯 Goal: Land my first software internship<br>
 
 
 
